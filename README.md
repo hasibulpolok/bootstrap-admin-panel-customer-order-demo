@@ -51,20 +51,7 @@ Since this is a static frontend demo, you don’t *install* anything — just op
 2. Open `index.html` in your browser
 3. Customize CSS/JS as needed
 
-## 📌 Usage
 
-You can use this demo panel as:
 
-* A starting point for building a real admin dashboard
-* A static prototype for design feedback
-* A UI foundation for integrating with backend APIs
 
-## 💡 Next Steps
-
-To turn this into a **full admin system**, consider:
-
-* Adding a backend (Node/Express, Laravel, Django)
-* Integrating with a database (MySQL/PostgreSQL/MongoDB)
-* Adding login / auth pages
-* Dynamic data fetching (AJAX / Fetch API)
 
